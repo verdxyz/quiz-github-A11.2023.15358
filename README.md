@@ -7,5 +7,4 @@
 - **Mata Kuliah:** BENGKEL KODING
 
 ## Deskripsi
-Repository ini dibuat untuk memenuhi tugas Quiz GitHub pada mata kuliah Bengkel Koding.# quiz-github-A11.2023.15358
-Tugas Quiz GitHub untuk mata kuliah Bengkel Koding.
+Repository ini dibuat untuk memenuhi tugas Quiz GitHub pada mata kuliah Bengkel Koding.
